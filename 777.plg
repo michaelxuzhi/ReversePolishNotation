@@ -1,0 +1,92 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 777 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPFA8F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/777.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"F:\PROGM FILES (X86)\MICROSOFT VISUAL STUDIO\MYPROJECTS\777\777.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPFA8F.tmp" 
+<h3>Output Window</h3>
+Compiling...
+777.cpp
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(1) : warning C4067: unexpected tokens following preprocessor directive - expected a newline
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(2) : error C2501: 'typedefstruct' : missing storage-class or type specifiers
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(2) : error C2239: unexpected token '{' following declaration of 'typedefstruct'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(3) : error C2501: 'OpNode' : missing storage-class or type specifiers
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(3) : error C2501: 'typedefstruct' : missing storage-class or type specifiers
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(3) : error C2086: 'typedefstruct' : redefinition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(3) : error C2239: unexpected token '{' following declaration of 'typedefstruct'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(5) : error C2501: 'stack' : missing storage-class or type specifiers
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(5) : error C2065: 'st' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(5) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(7) : error C2065: 'a' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(7) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(12) : error C2065: 'OpNodeop' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(12) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(15) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(19) : error C2501: 'typedefstruct' : missing storage-class or type specifiers
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(19) : error C2086: 'typedefstruct' : redefinition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(19) : error C2239: unexpected token '{' following declaration of 'typedefstruct'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(21) : error C2501: 'numstack' : missing storage-class or type specifiers
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(22) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(24) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(29) : error C2065: 'doublenum' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(29) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(32) : error C2065: 'charch' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(33) : error C2065: 'voidchange' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(33) : error C2065: 'charstr' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(33) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(34) : error C2065: 'doubleCalResult' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(34) : error C2065: 'charexp' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(34) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(34) : error C2065: 'doubleDirectcalresult' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(34) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(34) : error C2065: 'intcheck' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(34) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(35) : error C2109: subscript requires array or pointer type
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(35) : error C2065: 'exp' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(35) : error C2109: subscript requires array or pointer type
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(35) : error C2065: 'chestr' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(35) : error C2109: subscript requires array or pointer type
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(36) : error C2065: 'str' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(37) : error C2065: 'check' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(40) : error C2065: 'ch' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(40) : error C2065: 'system' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(41) : error C2065: 'exit' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(43) : error C2065: 'change' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(44) : error C2065: 'CalResult' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(45) : warning C4508: 'voidmain' : function should return a value; 'void' return type assumed
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(46) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(46) : error C2143: syntax error : missing ';' before '{'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(46) : error C2447: missing function header (old-style formal list?)
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(92) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(92) : error C2143: syntax error : missing ';' before '{'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(92) : error C2447: missing function header (old-style formal list?)
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(121) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(121) : error C2143: syntax error : missing ';' before '{'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(121) : error C2447: missing function header (old-style formal list?)
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(177) : error C2065: 'doubleod1' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(177) : error C2065: 'doubleod2' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(177) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(183) : error C2059: syntax error : ']'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(183) : error C2143: syntax error : missing ';' before '{'
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(183) : error C2447: missing function header (old-style formal list?)
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(195) : error C2137: empty character constant
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(234) : error C2065: 'charinteger' : undeclared identifier
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(234) : error C2109: subscript requires array or pointer type
+f:\progm files (x86)\microsoft visual studio\myprojects\777\777.cpp(234) : error C2448: '<Unknown>' : function-style initializer appears to be a function definition
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+777.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
